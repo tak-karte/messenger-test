@@ -4,16 +4,16 @@
 
 
 本リポジトリは公開リポジトリです  
-```bash
+```cmd
 root（公開リポジトリ）
-|- docs (html公開)
-|   |- css
-|   |   |- ***
-|   |- resource
-|   |   |- ***
-|   |- index.html
-|   |- messageList.json
-|   |- robots.txt
-|
-|- ***
+├ docs (html公開)
+│  ├ css
+│  │  ├ ***
+│  ├ resource
+│  │  ├ ***
+│  ├ index.html
+│  ├ messageList.json
+│  ├ robots.txt
+│
+├ ***
 ```
