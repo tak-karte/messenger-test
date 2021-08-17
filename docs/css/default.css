@@ -1,0 +1,137 @@
+@charset "utf-8";
+
+body {
+margin:0;
+padding:0;
+}
+#outer {
+font-size:14px;
+line-height:1.6;
+border-top:4px solid #4C7ED1;
+}
+#header {
+margin:0 auto;width:1280px;
+padding: 20px 0 20px 0;
+height:46px;
+}
+.title {
+padding:6px 9px;
+border:1px #ccc solid;
+font-weight:bold;
+color:#333;
+background-color:#EFEFEF;
+}
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+#content {
+margin:0 auto;
+width:1280px;
+}
+.box
+{
+  position: relative;
+}
+.box:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); /*半透明のフィルターをかける*/
+}
+.box div.text
+{
+    position: absolute;
+    width: 98%;
+    left: 0; 
+    top: calc(50% - 25px); 
+    text-align: center; 
+    color: white; 
+    font-size: 40px;
+    line-height: 50px;
+}
+#bgc {
+background-image:url("../resource/image/top.jpg");
+background-size:cover;
+height:160px;
+color:#fff;
+font-size:12px;
+margin-bottom:10px;
+}
+#bgc-inner {
+margin:0 auto;
+width:1280px;
+text-align:center;
+}
+.oft {
+margin:0;
+padding-top:56px;
+position: absolute;
+width: 98%;
+left: 0; 
+text-align: center; 
+color: white; 
+font-size: 30px;
+line-height: 50px;
+}
+
+p {
+margin:1em 0;
+}
+img {
+border:0;
+}
+#footer {
+font-size:87.5%;
+height:100px;
+color:#363636;
+background-color:#f0f3f4;
+font-weight:bold;
+}
+#footer-inner {
+margin:0 auto;
+width:1280px;
+text-align:center;
+padding-top:30px;
+}
+blockquote{
+border:1px solid #ccc;
+padding:5px;
+margin:10px;
+}
+
+h2{
+border-bottom: 5px solid #00197f;
+padding: 10px 0;
+font-size: 16px;
+}
+
+.box2 {
+    margin: 50px 0 20px 0;
+    background: #f1f1f1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+}
+.box2 .box-title {
+    font-size: 14px;
+    background: #4C7ED1;
+    padding: 4px;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.box2 p {
+    padding: 15px 20px;
+    margin: 0;
+    font-size: 14px;
+}
+
+@media screen and (max-device-width: 1280px) {
+#header,#content,#footer,#bgc,#bgc-inner,#link {width:100%;margin:0;}
+h1 {padding-left: 13px;}
+.inner {padding:0 10px;font-size:110%;}
+#link-inner {padding:0 10px;font-size:110%;}
+#footer-inner {width:100%;}
+}
