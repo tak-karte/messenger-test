@@ -1,0 +1,48 @@
+{
+    "messageList": [
+        {
+            "id": "20220330220000",
+            "title": "2022年度診療報酬改定に伴う電子カルテ更新作業終了について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2022/03/30 21:45:00",
+            "valid_end_date_time": "2022/03/30 23:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "2022年度診療報酬改定の作業完了"
+        },
+        {
+            "id": "20220330190000",
+            "title": "2022年度診療報酬改定に伴う電子カルテ更新作業について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2022/03/30 19:00:00",
+            "valid_end_date_time": "2022/03/30 22:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "2022年度診療報酬改定の事前案内"
+        },
+        {
+            "id": "20220325200000",
+            "title": "2022年度診療報酬改定に伴う電子カルテ更新作業について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2022/03/26 07:00:00",
+            "valid_end_date_time": "2022/03/26 23:59:59",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "2022年度診療報酬改定の事前案内"
+        }
+    ],
+    "last_upate_date_time": "2022/03/25 20:00:00",
+    "last_upate_name": "tak)waki"
+}
