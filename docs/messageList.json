@@ -11,7 +11,7 @@
             ],
             "valid_start_date_time": "2022/03/30 21:45:00",
             "valid_end_date_time": "2022/03/30 23:00:00",
-            "url": "https://tak-karte.github.io/messenger/",
+            "url": "https://tak-karte.github.io/messenger-test/",
             "memo": "2022年度診療報酬改定の作業完了"
         },
         {
@@ -25,7 +25,7 @@
             ],
             "valid_start_date_time": "2022/03/30 19:00:00",
             "valid_end_date_time": "2022/03/30 22:00:00",
-            "url": "https://tak-karte.github.io/messenger/",
+            "url": "https://tak-karte.github.io/messenger-test/",
             "memo": "2022年度診療報酬改定の事前案内"
         },
         {
@@ -39,7 +39,7 @@
             ],
             "valid_start_date_time": "2022/03/26 07:00:00",
             "valid_end_date_time": "2022/03/26 23:59:59",
-            "url": "https://tak-karte.github.io/messenger/",
+            "url": "https://tak-karte.github.io/messenger-test/",
             "memo": "2022年度診療報酬改定の事前案内"
         }
     ],
