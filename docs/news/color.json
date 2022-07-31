@@ -14,6 +14,13 @@
           "fontColor": "#FFFFFF",
           "bgColor": "#FF3333"
         }
+      ],
+      "red": [
+        {
+          "name": "まもなく実施",
+          "fontColor": "#FFFFFF",
+          "bgColor": "#FF3333"
+        }
       ]
     }
   }
