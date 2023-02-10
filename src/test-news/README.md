@@ -10,6 +10,9 @@ tag：New（間に合わず）
 
 ### 配布時
 １．ターミナルから下記のコマンドを実行する。
+```node
+npm install
 npm run build
+```
 
 ２．outフォルダの中身をアップする。
