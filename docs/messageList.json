@@ -1,6 +1,44 @@
 {
     "messageList": [
         {
+            "id": "20231218210001",
+            "title": "2023年09月度の電子カルテメンテナンスに伴う利用停止について(stagging)",
+            "env": [
+                "stagging"
+            ],
+            "valid_start_date_time": "2023/12/13 09:00:00",
+            "valid_end_date_time": "2023/12/17 20:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "psqlf-tak-karte-prod-001, psqlf-tak-karte-prod-002の計画メンテナンス"
+        },
+        {
+            "id": "20231218210000",
+            "title": "2023年09月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "product"
+            ],
+            "valid_start_date_time": "2023/12/13 09:00:00",
+            "valid_end_date_time": "2023/12/17 20:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "psqlf-tak-karte-prod-001, psqlf-tak-karte-prod-002の計画メンテナンス"
+        },
+        {
+            "id": "20231218210000",
+            "title": "2023年12月度の電子カルテ停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2023/09/06 09:00:00",
+            "valid_end_date_time": "2023/09/10 20:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "psqlf-tak-karte-prod-001, psqlf-tak-karte-prod-002の計画メンテナンス"
+        },
+        {
             "id": "20230906210000",
             "title": "2023年9月度の電子カルテ停止について",
             "env": [
