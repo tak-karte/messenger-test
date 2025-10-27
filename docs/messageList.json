@@ -6,7 +6,6 @@
             "env": [
                 "beta"
             ],
-            "facilityCode": [],
             "valid_start_date_time": "2025/10/27 10:00:00",
             "valid_end_date_time": "2025/10/28 20:00:00",
             "url": "https://tak-karte.github.io/messenger-test/",
