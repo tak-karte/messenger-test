@@ -1,13 +1,28 @@
 {
     "messageList": [
         {
-            "id": "20251027110005",
+            "id": "20251027110007",
+            "title": "2025年11月度の電子カルテメンテナンスに伴う利用停止について(stagging)",
+            "env": [
+                "beta"
+            ],
+            "facilityCode": [
+                "00010",
+                "00020"
+            ],
+            "valid_start_date_time": "2025/10/27 10:00:00",
+            "valid_end_date_time": "2025/10/28 20:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "テスト"
+        },
+        {
+            "id": "20251027110006",
             "title": "2025年11月度の電子カルテメンテナンスに伴う利用停止について(stagging)",
             "env": [
                 "dev"
             ],
             "facilityCode": [
-                "00010",
+                "00030",
                 "00020"
             ],
             "valid_start_date_time": "2025/10/27 10:00:00",
